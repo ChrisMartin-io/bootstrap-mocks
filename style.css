@@ -1,0 +1,51 @@
+.welcome {
+    background-color: grey;
+    padding: 30px 30px 60px 30px;
+    border-radius: 7px;
+}
+
+hr {
+    margin-top: 20px;
+    border-top: 1px solid darkgrey;
+}
+
+img {
+    max-width: 100%;
+}
+div.bottom {
+    padding: 20px;
+    background-color: #9be9ad!important;
+}
+h6 {
+    margin: 0;
+}
+.badge {
+    border-radius: 5px;
+    margin-top: 12px;
+}
+h1 {
+    margin: 30px 0px 30px 0px;
+}
+.container {
+    padding: 0px;
+}
+div.trash {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    border-radius: 5px;
+    vertical-align: middle;
+}
+.row {
+    margin: 0;
+    border: .1px solid lightgrey;
+}
+.todos {
+    border-radius: 10px 10px 0 0;
+}
+.row > p {
+    margin: 10px;
+}
+.todosbottom {
+    border-radius: 0 0 10px 10px;
+}
